@@ -1,6 +1,6 @@
 # Post-Hoc Control over Mixture-of-Experts
 
-This repository implements the main experiments of our TACL 2024 paper, [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](TODO:link).
+This repository implements the main experiments of our TACL 2024 paper, [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://arxiv.org/abs/2406.12060).
 
 We thank the authors of [RISK](https://github.com/CuteyThyme/RISK), on which our code was based.
 
@@ -186,6 +186,11 @@ CUDA_VISIBLE_DEVICES=0,1 accelerate launch \
 ## Citation
 
 If you find our work useful for your research, please consider citing our paper:
-```
-TODO:bibtex
+```bibtex
+@article{honda2024not,
+    title={Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding}, 
+    author={Ukyo Honda and Tatsushi Oka and Peinan Zhang and Masato Mita},
+    year={2024},
+    journal={arXiv preprint arXiv:2406.12060}
+}
 ```
