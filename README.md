@@ -187,18 +187,17 @@ CUDA_VISIBLE_DEVICES=0,1 accelerate launch \
 
 If you find our work useful for your research, please consider citing our paper:
 ```bibtex
-@article{honda-etal-2024-eliminate,
+@article{10.1162/tacl_a_00701,
     author = {Honda, Ukyo and Oka, Tatsushi and Zhang, Peinan and Mita, Masato},
     title = {Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding},
     journal = {Transactions of the Association for Computational Linguistics},
     volume = {12},
-    pages = {1268--1289},
+    pages = {1268-1289},
     year = {2024},
     month = {10},
-    address = {Cambridge, MA},
-    publisher = {MIT Press},
     issn = {2307-387X},
     doi = {10.1162/tacl_a_00701},
     url = {https://doi.org/10.1162/tacl\_a\_00701},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00701/2480600/tacl\_a\_00701.pdf},
 }
 ```
