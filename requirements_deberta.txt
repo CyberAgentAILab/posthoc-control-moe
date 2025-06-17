@@ -26,7 +26,6 @@ nvidia-cusparse-cu11==11.7.4.91
 nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
 packaging==23.0
-protobuf==3.20.0
 psutil==5.9.5
 PySocks==1.7.1
 PyYAML==6.0
