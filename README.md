@@ -30,7 +30,8 @@ cd posthoc-control-moe
 
 ### Installation
 
-**NOTE:** The exact versions of the libraries we used are specified in the requirements for reproducibility. For improved security, consider updating the libraries, particularly PyTorch and Transformers. However, note that we have not tested reproducibility with the updated versions.  
+> [!NOTE]
+> The exact versions of the libraries we used are specified in the requirements for reproducibility. For improved security, consider updating the libraries, particularly PyTorch and Transformers. However, note that we have not tested reproducibility with the updated versions.  
 
 Install dependencies to reproduce the main results.  
 ```bash
