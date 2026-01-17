@@ -2,7 +2,7 @@
 
 This repository implements the main experiments of our TACL 2024 paper, [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00701/124836/Not-Eliminate-but-Aggregate-Post-Hoc-Control-over).
 
-We thank the authors of [RISK](https://github.com/CuteyThyme/RISK), on which our code was based.
+The code is intended solely for reproducing the experiments. We thank the authors of [RISK](https://github.com/CuteyThyme/RISK), on which our code was based.
 
 
 ## Environment
